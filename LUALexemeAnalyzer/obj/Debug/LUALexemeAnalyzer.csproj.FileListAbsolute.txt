@@ -1,0 +1,12 @@
+c:\users\nick\documents\visual studio 2015\Projects\LUALexemeAnalyzer\LUALexemeAnalyzer\bin\Debug\LUALexemeAnalyzer.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\LUALexemeAnalyzer\LUALexemeAnalyzer\obj\Debug\LUALexemeAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2015\Projects\LUALexemeAnalyzer\LUALexemeAnalyzer\bin\Debug\LUALexemeAnalyzer.exe
+c:\users\nick\documents\visual studio 2015\Projects\LUALexemeAnalyzer\LUALexemeAnalyzer\bin\Debug\LUALexemeAnalyzer.pdb
+c:\users\nick\documents\visual studio 2015\Projects\LUALexemeAnalyzer\LUALexemeAnalyzer\obj\Debug\LUALexemeAnalyzer.exe
+c:\users\nick\documents\visual studio 2015\Projects\LUALexemeAnalyzer\LUALexemeAnalyzer\obj\Debug\LUALexemeAnalyzer.pdb
+C:\Users\Nick\Downloads\LUALexemeAnalyzer\LUALexemeAnalyzer\bin\Debug\LUALexemeAnalyzer.exe.config
+C:\Users\Nick\Downloads\LUALexemeAnalyzer\LUALexemeAnalyzer\obj\Debug\LUALexemeAnalyzer.exe
+C:\Users\Nick\Downloads\LUALexemeAnalyzer\LUALexemeAnalyzer\obj\Debug\LUALexemeAnalyzer.pdb
+C:\Users\Nick\Downloads\LUALexemeAnalyzer\LUALexemeAnalyzer\bin\Debug\LUALexemeAnalyzer.exe
+C:\Users\Nick\Downloads\LUALexemeAnalyzer\LUALexemeAnalyzer\bin\Debug\LUALexemeAnalyzer.pdb
+C:\Users\Nick\Downloads\LUALexemeAnalyzer\LUALexemeAnalyzer\obj\Debug\LUALexemeAnalyzer.csprojResolveAssemblyReference.cache
